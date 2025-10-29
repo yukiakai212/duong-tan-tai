@@ -88,7 +88,7 @@ In this approach, the client needs to send a valid JWT token when updating the u
     {
       "message": "Score updated successfully.",
       "status": "success",
-	  scoreIncrease: 10
+	  "scoreIncrease": 10
     }
     ```
 
